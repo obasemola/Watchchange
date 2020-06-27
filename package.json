@@ -1,7 +1,6 @@
 {
   "name": "watchchange",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,15 @@
     "caporal": "^1.4.0",
     "chokidar": "^3.4.0",
     "lodash.debounce": "^4.0.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obasemola/Watchchange.git"
+  },
+  "bugs": {
+    "url": "https://github.com/obasemola/Watchchange/issues"
+  },
+  "homepage": "https://github.com/obasemola/Watchchange#readme",
+  "description": ""
 }
